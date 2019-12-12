@@ -86,7 +86,7 @@ canvas {
     z-index:10;
 }
 .calendar{
-   margin-left:55px;  
+      padding-left:23%;
 }
 .buttons {
   width: 10%;
